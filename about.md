@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about-me/
+title: About
+permalink: /about/
 ---
 
 Hey, I'm Elian. Not much needed to know there. I'm in IB right now slowly suffering. Don't take IB kids.
