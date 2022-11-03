@@ -1,11 +1,11 @@
-title: Your awesome title
+title: IB Computer Science
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Elian Rieza
+  email: elianinigorieza@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my IB Comp Sci site, I'm graduating in 2024 and planning 
+  to take a double major in Computer Science and Economics in Uni with
+  a 45 IB points.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  nail-e
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
