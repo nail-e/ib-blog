@@ -12,6 +12,7 @@ Remember that learnind coding languages are like learning languages, they're har
 2. [IB Pseudocode Wiki](#ib-pseudocode-wiki)
 3. [Java Wiki](#java-wiki)
 4. [Lua Wiki](#lua-wiki)
+5. [Brainfuck Wiki](#brainfuck-wiki)
 
 
 ### **[Python Wiki](https://nail-e.github.io/ib-site/python-wiki/)**
@@ -32,7 +33,7 @@ Lua strikes a sentimental chord in my heart as it was the first programming lang
 
 
 ---
-### Brainfuck (BF) Wiki <!---(https://nail-e.github.io/ib-site/brainfuck-wiki/)--> (Under Construction)
+### Brainfuck Wiki <!---(https://nail-e.github.io/ib-site/brainfuck-wiki/)--> (Under Construction)
 An oddly named language, this is one of the few programming languages I'm going to analyze in my Extended Essay. 296 bytes in length, this simple languages is an absolute mindfuck to get your head around.
 
 ---

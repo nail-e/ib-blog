@@ -3,6 +3,17 @@ layout: page
 title: Python Wiki
 permalink: /python-wiki/
 ---
+You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello World" and 6 more lines to input "Hello World". For most of you reading this, Python would proabably be the only programming language you'll ever need to know.
+
+## Table of Contents
+[**Python Wiki**](#.py-syntax)
+  - .py Syntax
+  - .py String Manipulation
+  - .py Lists
+  - .py Further Functions, Classes, Methods & OOP
+  - .py File I/O
+  
+[**Python Libraries/Modules Wiki (Under Construction)**](#brainfuck-bf-wiki--under-construction)
 
 
 ---
@@ -25,9 +36,21 @@ permalink: /python-wiki/
 
 [Exception Handling](https://nail-e.github.io/ib-site/python-wiki/exception-handling)
 
-## .py String Manipulation (Under Construction)
+## .py String Manipulation 
 
 [What is String Manipulation?](https://nail-e.github.io/ib-site/python-wiki/string-manipulation)
+
+[String Basics](https://nail-e.github.io/ib-site/python-wiki/string-basics)
+
+[Cutting Strings](https://nail-e.github.io/ib-site/python-wiki/cutting-strings)
+
+[Modifying Strings](https://nail-e.github.io/ib-site/python-wiki/modifying-strings)
+
+[Formatting Strings](https://nail-e.github.io/ib-site/python-wiki/formatting-strings)
+
+[Escape Characters](https://nail-e.github.io/ib-site/python-wiki/escape-characters)
+
+[List of String Methods](https://nail-e.github.io/ib-site/python-wiki/list-of-string-methods)
 
 ## .py Lists
 
@@ -81,5 +104,7 @@ permalink: /python-wiki/
 
 [Writing & Creating Files](https://nail-e.github.io/ib-site/python-wiki/writing-and-creating-files)
 
+<br>
+<br>
 
-# Python Libraries/Modules (Under Construction)
+# Python Libraries/Modules (Under Construction) Wiki
