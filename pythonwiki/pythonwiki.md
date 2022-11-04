@@ -6,77 +6,80 @@ permalink: /python-wiki/
 
 
 ---
-[Introduction to Python]()
+[Introduction to Python](https://nail-e.github.io/ib-site/python-wiki/introduction-to-python)
 
 ## .py Syntax
 [Code Comments](https://nail-e.github.io/ib-site/python-wiki/code-comments)
 
-[Variables](Variables%206866ae19f8854403ad1c956864368212.md)
+[Variables](https://nail-e.github.io/ib-site/python-wiki/variables)
 
-[Arithmetic Operators](Arithmetic%20Operators%2019bd597a4601446ab7ae7b4cb8167e5e.md)
+[Arithmetic Operators](https://nail-e.github.io/ib-site/python-wiki/arithmetic-operators)
 
-[String Methods](String%20Methods%20cd711dbb25e6479fab312b4b0e788e2b.md)
+[Selection Statements (If, Else)](https://nail-e.github.io/ib-site/python-wiki/selection-statements)
 
-[Logic & Conditional Operators](Logic%20and%20Conditional%20Operators%20e4c9e039d0d34bf6a25c1b384f39c7be.md)
+[Logic & Conditional Operators](https://nail-e.github.io/ib-site/python-wiki/logic-and-conditional-operators)
 
-[FOR & WHILE Loops](FOR%20and%20WHILE%20Loops%20875d5e10558947d490a575f7257b0896.md)
+[FOR & WHILE Loops](https://nail-e.github.io/ib-site/python-wiki/loops)
 
-[Selection Statements (If, Else)](Selection%20Statements%20(If,%20Else)%20d75f6556b24947149dac716a5f72ced4.md)
+[Creating a Function](https://nail-e.github.io/ib-site/python-wiki/functions)
 
-[Creating a Function](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Exception Handling](https://nail-e.github.io/ib-site/python-wiki/exception-handling)
 
 ## .py String Manipulation (Under Construction)
 
+[What is String Manipulation?](https://nail-e.github.io/ib-site/python-wiki/string-manipulation)
 
 ## .py Lists
 
 [What are lists?]()
 
-[1D Arrays](1D%20Arrays%20&%20Parallel%20Arrays%20a6a1e38212eb4b5c9e7910a8e6574834.md)
+[1D Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays-1)
 
-[2D+ Arrays](2D%20Arrays%20b1c78d4f334e4026a2c2bedfa60112ca.md)
+[2D+ Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays-2)
 
-[Sets](2D%20Arrays%20b1c78d4f334e4026a2c2bedfa60112ca.md)
+[Sets](https://nail-e.github.io/ib-site/python-wiki/sets)
 
-[Dictionaries](2D%20Arrays%20b1c78d4f334e4026a2c2bedfa60112ca.md)
+[Dictionaries](https://nail-e.github.io/ib-site/python-wiki/dictionaries)
+
+[Trees](https://nail-e.github.io/ib-site/python-wiki/trees)
+
+[Stacks](https://nail-e.github.io/ib-site/python-wiki/stacks)
+
+[Queues](https://nail-e.github.io/ib-site/python-wiki/queues)
+
+[Hash Tables](https://nail-e.github.io/ib-site/python-wiki/hash-tables)
 
 ## .py Further Functions, Classes, Methods & OOP
 
-[What is Object Oriented Programming (OOP)?]()
+[What is Object Oriented Programming (OOP)?](https://nail-e.github.io/ib-site/python-wiki/what-is-oop)
 
-[Further Functions]()
+[Further Functions](https://nail-e.github.io/ib-site/python-wiki/functions-2)
 
-[Lambda Function](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Lambda Functions](https://nail-e.github.io/ib-site/python-wiki/lambda-functions)
 
-[Arbitrary Arguments & Arbritrary Keyword Arguments (**args and **kwargs)](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Objects & Classes](https://nail-e.github.io/ib-site/python-wiki/objects-and-classes)
 
-[Objects & Classes](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Methods & Dunders](https://nail-e.github.io/ib-site/python-wiki/methods-and-dunders)
 
-[Methods & Dunders](Methods%2025a6950f5bab461db10d3c9fc2dc42a5.md)
+[Creating Methods](https://nail-e.github.io/ib-site/python-wiki/creating-methods)
 
-[Creating Methods]()
+[Recursion](https://nail-e.github.io/ib-site/python-wiki/recursion)
+
+[Polymorphism](https://nail-e.github.io/ib-site/python-wiki/recursion)
+
+[Inheritance](https://nail-e.github.io/ib-site/python-wiki/inheritance)
+
+[Encapsulation](https://nail-e.github.io/ib-site/python-wiki/encapsulations)
 
 
 ## .py File I/O
-[Importing Libraries/Modules](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Importing Libraries/Modules](https://nail-e.github.io/ib-site/python-wiki/importing)
 
-[Handling Files](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Handling Files](https://nail-e.github.io/ib-site/python-wiki/handling-files)
 
-[Reading Files](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Reading Files](https://nail-e.github.io/ib-site/python-wiki/reading-files)
 
-[Writing & Creating Files](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
+[Writing & Creating Files](https://nail-e.github.io/ib-site/python-wiki/writing-and-creating-files)
 
-
-## .py Advanced Topics
-
-[Recursion](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
-
-[Polymorphism](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
-
-[Inheritance](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
-
-[Encapsulation](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
-
-[Exception Handling](Objects%20&%20Classes%2045ca1aafa4ea467c91fa41fc1671b5bc.md)
 
 # Python Libraries/Modules (Under Construction)
