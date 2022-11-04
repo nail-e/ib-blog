@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+Hello! Welcome to this cool site made by Elian as a landing page. Have fun!
