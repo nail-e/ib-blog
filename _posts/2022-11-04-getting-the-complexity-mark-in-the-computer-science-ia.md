@@ -28,13 +28,14 @@ The complex complexity mark in the IA is a really hard topic to get a grasp on. 
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12 to 16. Requires at least one Abstract Data Types (ADTs) with methods that can be called.
 
-Abstract Data Type   |  1 Aspect | 2 Aspects  |  3 Aspects |  4 Aspects |  Probable Methods || ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Abstract Data Type   |  1 Aspect | 2 Aspects  |  3 Aspects |  4 Aspects |  Probable Methods | 
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
  *General Criteria*  | *An incomplete ADT is implemented* |  *An ADT is implemented with all key methods implemented.* | *An ADT is implemented thatincludes some error checking*  |  A*n ADT is implemented completely and robust*  | -  |
   **Lists** |  A node style class with appropriate constructors and methods to set and get data elements. |  Methods are implemented to add at / remove from the tail and the head of the list. |  Proper checks are made for errors such as attempting to get an element from an empty list or inserting the same element twice. | All error conditions are checked for, and all appropriate methods are implemented.  | `size, isEmpty, first, last, before, after, insertHead, insertTail, insertBefore, insertAfter`  |
    **Tree**| A class or interface with appropriate constructors and methods to set and get data elements.  | Methods are implemented to add at / remove from the correct point in the tree.  |  Proper checks are made for errors such as attempting to get an element from an empty tree or not inserting the same element twice. | All error conditions are checked for, all appropriate methods are implemented.  | `size, isEmpty, root, parent, leftChild, rightChild`  |
   **Stack** |  A class or interface with appropriate constructors and methods to push and pop items. |  Methods to test for full and empty stack are added. | Proper checks are made for errors such as attempting to get an element from an empty stack.  |   |  `push, pop, top, isEmpty, isFull, size`  |
   **Queue** | A class or interface with appropriate constructors and methods to enqueue and dequeue items.  | Methods to test for full and empty queue are added.  |   Proper checks are made for errors such as attempting to get an element from an empty queue. |   | `enqueue, dequeue, front, rear, isEmpty, isFull, size`  |
-   **Hash Table**| A class or interface with appropriate constructors and methods to insert and remove items.  |  Methods to test for full table and duplicate keys are added. |   | Proper checks are made for errors such as attempting to get a non-existent key, clashes are dealt with properly  |   | `hashFunction, insertKey, removeKey, isDuplicate, isEmpty, isFull, size`  |
+   **Hash Table**| A class or interface with appropriate constructors and methods to insert and remove items.  |  Methods to test for full table and duplicate keys are added. | Proper checks are made for errors such as attempting to get a non-existent key, clashes are dealt with properly  |   |   | `hashFunction, insertKey, removeKey, isDuplicate, isEmpty, isFull, size`  |
 
 
 ## **SL Criteria**
