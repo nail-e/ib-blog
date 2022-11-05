@@ -9,4 +9,4 @@ layout: home
 ---
 Hello and Welcome! Welcome to this cool site made by Elian as a landing page. 
 
-## Recent Blog Posts
+### Recent Blog Posts

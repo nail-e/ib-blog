@@ -7,12 +7,13 @@ Personally, I know around 4 programming languages (Python, Java, Lua, C++) with 
 
 Remember that learnind coding languages are like learning languages, they're hard and will take time for you to learn. So make sure you practice your coding frequently along with your math skills.
 
-## Table of Contents
-1. [Python Wiki](#python-wiki)
-2. [IB Pseudocode Wiki](#ib-pseudocode-wiki)
-3. [Java Wiki](#java-wiki)
-4. [Lua Wiki](#lua-wiki)
-5. [Brainfuck Wiki](#brainfuck-wiki)
+### Table of Contents
+- [Table of Contents](#table-of-contents)
+- [**Python Wiki**](#python-wiki)
+- [IB Pseudocode Wiki (Under Construction)](#ib-pseudocode-wiki-under-construction)
+- [**Java Wiki**](#java-wiki)
+- [Lua Wiki  (Under Construction)](#lua-wiki--under-construction)
+- [Brainfuck Wiki  (Under Construction)](#brainfuck-wiki--under-construction)
 
 
 ### **[Python Wiki](https://nail-e.github.io/ib-site/python-wiki/)**

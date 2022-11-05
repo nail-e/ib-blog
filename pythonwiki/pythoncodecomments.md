@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Code Comments in Python
+title: Python Code Comments
 permalink: /python-wiki/code-comments
 ---

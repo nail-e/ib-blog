@@ -6,14 +6,14 @@ permalink: /python-wiki/
 You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello World" and 6 more lines to input "Hello World". For most of you reading this, Python would proabably be the only programming language you'll ever need to know.
 
 ## Table of Contents
-[**Python Wiki**](#.py-syntax)
+[**Python Wiki**](#py-syntax)
   - .py Syntax
   - .py String Manipulation
   - .py Lists
   - .py Further Functions, Classes, Methods & OOP
   - .py File I/O
   
-[**Python Libraries/Modules Wiki (Under Construction)**](#brainfuck-bf-wiki--under-construction)
+[**Python Libraries/Modules Wiki (Under Construction)**](#python-libraries-modules-wiki-under-construction)
 
 
 ---
