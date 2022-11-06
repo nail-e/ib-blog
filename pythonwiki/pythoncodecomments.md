@@ -3,7 +3,6 @@ layout: page
 title: Python Code Comments
 permalink: /python-wiki/code-comments
 ---
-<img class="icon" src="https://www.notion.so/icons/hashtag_gray.svg"/>
 # Code Comments
 
 `#` forms a comment
