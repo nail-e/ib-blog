@@ -5,6 +5,8 @@ permalink: /python-wiki/
 ---
 You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello World" and 6 more lines to input "Hello World". For most of you reading this, Python would proabably be the only programming language you'll ever need to know.
 
+*Imported from [Computer Science HL IBDP Journal Python Wiki](https://www.notion.so/elian-r/Python-Wiki-1cd0297bf1fb46239e2508fd3c65b102) @ Notion*
+
 ## Table of Contents
 [**Python Wiki**](#py-syntax)
   - .py Syntax
@@ -13,7 +15,7 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
   - .py Further Functions, Classes, Methods & OOP
   - .py File I/O
   
-[**Python Libraries/Modules Wiki (Under Construction)**](#python-libraries-modules-wiki-under-construction)
+[**Python Modules Wiki**](#python-modules-wiki)
 
 
 ---
@@ -22,7 +24,7 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 ## .py Syntax
 [Code Comments](https://nail-e.github.io/ib-site/python-wiki/code-comments)
 
-[Variables](https://nail-e.github.io/ib-site/python-wiki/variables)
+[Variables](https://nail-e.github.io/ib-site/python-wiki/)
 
 [Arithmetic Operators](https://nail-e.github.io/ib-site/python-wiki/arithmetic-operators)
 
@@ -107,4 +109,4 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 <br>
 <br>
 
-# Python Libraries/Modules (Under Construction) Wiki
+# Python Modules Wiki
