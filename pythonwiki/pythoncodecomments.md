@@ -3,7 +3,6 @@ layout: page
 title: Python Code Comments
 permalink: /python-wiki/code-comments
 ---
-# Code Comments
 
 `#` forms a comment
 
