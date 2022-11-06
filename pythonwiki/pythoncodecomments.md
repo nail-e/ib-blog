@@ -5,7 +5,6 @@ permalink: /python-wiki/code-comments
 ---
 
 > Difficulty: Easy
-> 
 
 `#` forms a comment
 

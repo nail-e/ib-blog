@@ -5,7 +5,6 @@ permalink: /python-wiki/variables
 ---
 
 > Difficulty: Easy
-> 
 
 Python is a dynamically typed language so it auto-assigns data types to variables. Variables are easy to get the hang of.
 
