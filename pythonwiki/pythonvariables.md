@@ -73,7 +73,7 @@ print(type(z))
 
 ### Immutable and Mutable Variable
 
-**Immutable** means that the data cannot be changed after declaration, like a constant in math. ****************Mutable**************** means that the data can be changed after declaration, like a variable in math.
+**Immutable** means that the data cannot be changed after declaration, like a constant in math. **Mutable** means that the data can be changed after declaration, like a variable in math.
 
 ### Primitive Variable
 
