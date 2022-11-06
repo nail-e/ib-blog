@@ -24,7 +24,7 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 ## .py Syntax
 [Code Comments](https://nail-e.github.io/ib-site/python-wiki/code-comments)
 
-[Variables](https://nail-e.github.io/ib-site/python-wiki/)
+[Variables](https://nail-e.github.io/ib-site/python-wiki/variables)
 
 [Inputs](https://nail-e.github.io/ib-site/python-wiki/inputs)
 
