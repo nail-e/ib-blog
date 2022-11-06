@@ -26,6 +26,8 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 
 [Variables](https://nail-e.github.io/ib-site/python-wiki/)
 
+[Inputs](https://nail-e.github.io/ib-site/python-wiki/inputs)
+
 [Arithmetic Operators](https://nail-e.github.io/ib-site/python-wiki/arithmetic-operators)
 
 [Selection Statements (If, Else)](https://nail-e.github.io/ib-site/python-wiki/selection-statements)
@@ -58,7 +60,7 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 
 [What are lists?]()
 
-[1D Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays-1)
+[1D Arrays & Tuples](https://nail-e.github.io/ib-site/python-wiki/arrays-1)
 
 [2D+ Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays-2)
 

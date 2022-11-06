@@ -4,6 +4,9 @@ title: Python Code Comments
 permalink: /python-wiki/code-comments
 ---
 
+> Difficulty: Easy
+> 
+
 `#` forms a comment
 
 `"""` at the end and beginning forms multi-line comments
