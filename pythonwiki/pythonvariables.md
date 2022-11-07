@@ -82,20 +82,20 @@ print(type(z))
 
 ### Data Type Table
 
-| Data Type | Syntax | Primitive? | Mutable? | Example | Special cases |
-| --- | --- | --- | --- | --- | --- |
-| String | str() | Primitive | Immutable | print(”Hello World”) |  |
-| Integer | int() | Primitive | Immutable | print(3) |  |
-| Float | float() | Primitive | Immutable | print(4.3) |  |
-| Complex | complex() | Non-Primitive | Immutable | print(1j) |  |
-| Boolean | bool() | Primitive | Immutable | isSorted = False |  |
-| Range | range() | Non-Primitive | Immutable | for i in range(1,6): |  |
-| Array/List | list() or [ ] | Non-Primitive | Mutable | [1, 2, 3, 4, 5] | Ordered, changeable, indexed, allows duplicates, different data types |
-| Tuple | tuple() | Non-Primitive | Immutable | tuple = (”red”, “green”, “blue”) | Ordered, unchangeable, indexed, allows duplicates, same data type only |
-| Dictionary | dict() | Non-Primitive | Mutable | x = {"name" : "John", "age" : 36} | Ordered, changeable, indexed, no duplicates. Presented as pointer:value |
-| Set | set() | Non-Primitive | Mutable | set = {"r", "g", "b"} | Unordered, unchangeable but can have values added, no duplicates, unindexed |
-| Frozen Set | frozenset() | Non-Primitive | Immutable | frozen = frozenset({"r, "g", "b"}) | Unordered, unchangeable but no values can be added, no duplicates, unindexed |
-| Byte | bytes() | Non-Primitive | Immutable | print(b”Hello”) |  |
-| Byte Array | bytearray() | Non-Primitive | Mutable | bytearray(5) |  |
-| Pointer | memoryview() | Non-Primitive | Immutable | memoryview(bytes(5)) |  |
-| None |  | Primitive | Immutable | return None |  |
+| Data Type | Syntax | Primitive? | Mutable? | Example |
+| --- | --- | --- | --- | --- | 
+| String | str() | Primitive | Immutable | print(”Hello World”) |  
+| Integer | int() | Primitive | Immutable | print(3) |  
+| Float | float() | Primitive | Immutable | print(4.3) |  
+| Complex | complex() | Non-Primitive | Immutable | print(1j) |  
+| Boolean | bool() | Primitive | Immutable | isSorted = False |  
+| Range | range() | Non-Primitive | Immutable | for i in range(1,6): |  
+| Array/List | list() or [ ] | Non-Primitive | Mutable | [1, 2, 3, 4, 5] | 
+| Tuple | tuple() | Non-Primitive | Immutable | tuple = (”red”, “green”, “blue”) | 
+| Dictionary | dict() | Non-Primitive | Mutable | x = {"name" : "John", "age" : 36} |
+| Set | set() | Non-Primitive | Mutable | set = {"r", "g", "b"} 
+| Frozen Set | frozenset() | Non-Primitive | Immutable | frozen = frozenset({"r, "g", "b"}) 
+| Byte | bytes() | Non-Primitive | Immutable | print(b”Hello”) |  
+| Byte Array | bytearray() | Non-Primitive | Mutable | bytearray(5) |  
+| Pointer | memoryview() | Non-Primitive | Immutable | memoryview(bytes(5)) |  
+| None |  | Primitive | Immutable | return None |  
