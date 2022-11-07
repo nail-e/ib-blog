@@ -39,8 +39,7 @@ print(x)
 >>> 5
 ```
 
-They can be given a data type. This is useful especially for inputs and outputs5
-int(x)
+They can be given a data type. This is useful especially for inputs and outputs
 
 ```python
 x = str(5)
