@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Python Logic Operators
-permalink: /python-wiki/arithmetic-operators
+permalink: /python-wiki/logic-and-conditional-operators
 ---
 > Difficulty: Medium
 > 
