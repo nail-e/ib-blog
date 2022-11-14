@@ -58,11 +58,11 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 
 ## .py Lists
 
-[What are lists?]()
+[What are lists?](https://nail-e.github.io/ib-site/python-wiki/lists)
 
-[1D Arrays & Tuples](https://nail-e.github.io/ib-site/python-wiki/arrays-1)
+[Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays)
 
-[2D+ Arrays](https://nail-e.github.io/ib-site/python-wiki/arrays-2)
+[Tuples](https://nail-e.github.io/ib-site/python-wiki/tuple)
 
 [Sets](https://nail-e.github.io/ib-site/python-wiki/sets)
 
