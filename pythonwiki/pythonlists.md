@@ -3,12 +3,10 @@ layout: page
 title: What are lists in Python?
 permalink: /python-wiki/lists
 ---
-# What are lists?
+> Difficulty: Easy
+
 
 Lists are ways data can be stored with one variable. Lists can be accessed by variable they were assigned
-
-> Difficulty: Easy
-> 
 
 ### List comparison
 
