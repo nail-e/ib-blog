@@ -40,21 +40,7 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 
 [Exception Handling](https://nail-e.github.io/ib-site/python-wiki/exception-handling)
 
-## .py String Manipulation 
-
-[What is String Manipulation?](https://nail-e.github.io/ib-site/python-wiki/string-manipulation)
-
-[String Basics](https://nail-e.github.io/ib-site/python-wiki/string-basics)
-
-[Cutting Strings](https://nail-e.github.io/ib-site/python-wiki/cutting-strings)
-
-[Modifying Strings](https://nail-e.github.io/ib-site/python-wiki/modifying-strings)
-
-[Formatting Strings](https://nail-e.github.io/ib-site/python-wiki/formatting-strings)
-
-[Escape Characters](https://nail-e.github.io/ib-site/python-wiki/escape-characters)
-
-[List of String Methods](https://nail-e.github.io/ib-site/python-wiki/list-of-string-methods)
+[String Manipulation](https://nail-e.github.io/ib-site/python-wiki/string-manipulation)
 
 ## .py Lists
 
@@ -97,6 +83,8 @@ You're lucky, Python is easy. It doesnt need 6 lines of code to print "Hello Wor
 [Inheritance](https://nail-e.github.io/ib-site/python-wiki/inheritance)
 
 [Encapsulation](https://nail-e.github.io/ib-site/python-wiki/encapsulations)
+
+[Further Exception Handling](https://nail-e.github.io/ib-site/python-wiki/exception-handling-2)
 
 
 ## .py File I/O
